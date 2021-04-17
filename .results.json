@@ -5,22 +5,22 @@
     "passes": 5,
     "pending": 0,
     "failures": 0,
-    "start": "2021-04-16T22:30:46.020Z",
-    "end": "2021-04-16T22:30:46.073Z",
-    "duration": 53
+    "start": "2021-04-17T22:42:07.304Z",
+    "end": "2021-04-17T22:42:07.391Z",
+    "duration": 87
   },
   "tests": [
     {
       "title": "should set the `currentSlideIndex` to 0 on its state",
       "fullTitle": "<ImageSlider /> should set the `currentSlideIndex` to 0 on its state",
-      "duration": 1,
+      "duration": 5,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "render the correct text",
       "fullTitle": "<ImageSlider /> render the correct text",
-      "duration": 2,
+      "duration": 3,
       "currentRetry": 0,
       "err": {}
     },
@@ -34,7 +34,7 @@
     {
       "title": "render the correct text when the timer is not 0",
       "fullTitle": "<Bomb /> render the correct text when the timer is not 0",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -52,14 +52,14 @@
     {
       "title": "should set the `currentSlideIndex` to 0 on its state",
       "fullTitle": "<ImageSlider /> should set the `currentSlideIndex` to 0 on its state",
-      "duration": 1,
+      "duration": 5,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "render the correct text",
       "fullTitle": "<ImageSlider /> render the correct text",
-      "duration": 2,
+      "duration": 3,
       "currentRetry": 0,
       "err": {}
     },
@@ -73,7 +73,7 @@
     {
       "title": "render the correct text when the timer is not 0",
       "fullTitle": "<Bomb /> render the correct text when the timer is not 0",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
